@@ -1,0 +1,5 @@
+@import "compass";
+
+div {
+  @include border-radius(4px);
+}
